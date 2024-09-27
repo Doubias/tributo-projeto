@@ -31,11 +31,13 @@ p {
 }
 h1 {
     background-color: #320f0fcc;
-    box-shadow: ;
     color: #efc798;
-    font-size: 4rem;
+    font-size: 5rem;
     text-align: center;
     font-family:maiden, serif;
+    margin: 20 auto;
+    padding: 15px 10px;
+    text-shadow:2px 2px 1px  #1d0505;
 }
 h2 {
     text-align: center;
@@ -73,6 +75,4 @@ footer {
    background-color: #efc798;
    margin: -1 2px 0 2px;
    
-
-
 }
